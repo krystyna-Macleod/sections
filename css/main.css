@@ -36,8 +36,9 @@ h1 {
 .btn {
   display: inline-block;
   border-color: #666;
+  border-radius: 2px;
   text-align: center;
   background-color: #333;
-  font-size: large;
+  font-size: larger;
   padding: 2em;
 }
