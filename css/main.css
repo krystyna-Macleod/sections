@@ -12,13 +12,13 @@ img {
   width: 100%;
   max-width: 25em;
   margin: 1.5rem;
-  padding: 0;
+  padding: .4em .75em .5em;
 }
 
 body {
   display: inline-block;
   margin: 0;
-  padding: .4em .75em .5em;
+  padding: 2em;
   text-align: center;
   vertical-align: middle;
   line-height: 1.5;
