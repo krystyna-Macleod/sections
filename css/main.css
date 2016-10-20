@@ -69,3 +69,9 @@ section {
   max-width: 25em;
   width: 100%;
 }
+
+h2 {
+  display: block;
+  margin: 0;
+  padding: 1em;
+}
