@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: "Lato", sans-serif;
+  background-color: #f2f2f2;
 }
 
 *, *::before, *::after {
@@ -17,12 +18,14 @@ img {
 }
 
 body {
-  display: inline-block;
+  display: inline;
   margin: 0;
-  padding: 2em;
+  padding: .4em .75em .5em;
   text-align: left;
   vertical-align: middle;
   line-height: 1.5;
+  width: 25em;
+  max-width: 25em;
 }
 
 h1 {
@@ -32,6 +35,7 @@ h1 {
 
 .btn {
   display: inline-block;
+  border-color: #666;
   text-align: center;
-  background-color: #666;
+  background-color: #333;
 }
