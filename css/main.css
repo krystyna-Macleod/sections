@@ -13,7 +13,7 @@ img {
   display: block;
   display: inline-block;
   text-align: left;
-  vertical-align: top;
+  vertical-align: middle;
   width: 100%;
   max-width: 25em;
   margin: .5rem;
@@ -46,7 +46,7 @@ h1 {
   text-align: left;
 }
 
-.btn {
+button {
   display: inline-block;
   border: 3px solid #333;
   text-align: center;
@@ -55,6 +55,7 @@ h1 {
   color: #666;
   padding: 2em;
   max-width: 25em;
+  font-size: .5rem;
 }
 
 section {
