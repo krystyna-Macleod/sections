@@ -62,6 +62,13 @@ button {
   text-align: center;
 }
 
+div {
+  display: inline;
+  margin: 1.5rem;
+  text-align: left;
+  vertical-align: middle;
+}
+
 section {
   display: inline-block;
   display: block;
