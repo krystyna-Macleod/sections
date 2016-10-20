@@ -16,7 +16,7 @@ img {
 body {
   display: inline-block;
   margin: 0;
-  padding: .4em .75em .5em;
+  padding: 1em;
   vertical-align: middle;
   text-align: left;
   line-height: 1.5;
@@ -52,7 +52,7 @@ h1 {
 }
 
 .btn:hover {
-  color: #666;
+  color: #333;
 }
 
 section {
