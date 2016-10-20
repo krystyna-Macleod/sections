@@ -24,16 +24,6 @@ body {
   font-family: "Lato", sans-serif;
 }
 
-/*h1 p {
-  display: inline;
-  margin: 1.5rem;
-  padding: 2em;
-  vertical-align: top;
-  line-height: 1.5;
-  width: 25em;
-  max-width: 25em;
-}*/
-
 h2 {
   display: inline-block;
   text-align: left;
@@ -62,5 +52,5 @@ section {
 .box {
   max-width: 25em;
   display: inline-block;
-  padding: .4em .75em .5em;
+  padding: 2em 1em;
 }
