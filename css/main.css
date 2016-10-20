@@ -46,8 +46,8 @@ h1 {
   text-align: left;
 }
 
-.btn {
-  display: inline-block;
+button {
+  display: inline;
   border: 3px solid #333;
   text-align: center;
   background-color: #f2f2f2;
@@ -56,6 +56,10 @@ h1 {
   padding: 2em;
   max-width: 25em;
   font-size: .5rem;
+}
+
+.btn {
+  text-align: center;
 }
 
 section {
