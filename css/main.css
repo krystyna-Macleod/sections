@@ -34,7 +34,7 @@ body {
   max-width: 25em;
 }*/
 
-h1 {
+h2 {
   display: inline-block;
   text-align: left;
   margin: 0;
@@ -62,5 +62,5 @@ section {
 .box {
   max-width: 25em;
   display: inline-block;
-  padding: .4em .75em .5em .75em;
+  padding: .4em .75em .5em;
 }
