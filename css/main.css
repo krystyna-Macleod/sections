@@ -25,8 +25,8 @@ body {
   display: inline;
   margin: 0;
   padding: .4em .75em .5em;
-  text-align: left;
   vertical-align: middle;
+  text-align: left;
   line-height: 1.5;
   width: 25em;
   max-width: 25em;
