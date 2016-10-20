@@ -58,6 +58,10 @@ button {
   font-size: .5rem;
 }
 
+.btn {
+  text-align: center;
+}
+
 section {
   display: inline-block;
   display: block;
