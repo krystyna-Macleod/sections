@@ -59,6 +59,11 @@ h1 {
   max-width: 25em;
 }
 
+.btn:hover {
+  background-color: #f2f2f2;
+  color: #666;
+}
+
 section {
   display: inline-block;
   display: block;
